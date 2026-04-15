@@ -234,8 +234,3 @@ Create a file named `charities.csv` in the same folder as `main.py` with the fol
 - Public Affairs
 - Education
 - Cultural
-
-**Example row:**
-"Feeding America","Domestic Needs",92,95
-"Red Cross","Medical",85,90
-"World Wildlife Fund","Environment & Animals",88,93
